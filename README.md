@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohil Varma
-- 👀 I’m interested in Front-end Development and Java Related Projects
+- 👀 I’m interested in Front-end Development and I aspire to become an SDE.
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on Front-end projects
 - 📫 How to reach me rohilvarma96@gmail.com 
