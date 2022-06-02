@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohil Varma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React, Angular, Node.JS**
+- 🌱 I’m currently learning **React & Node.JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/1N7R0V3R7](https://github.com/1N7R0V3R7)
 
